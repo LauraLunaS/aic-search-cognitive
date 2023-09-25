@@ -11,7 +11,7 @@ export const Container = styled.div `
 `;
 
 export const InputText = styled.input `
-    background-color: #d9d9d9;
+    background-color: rgba(74, 144, 167, 0.26);
     background-image: url('/searchIcon.png');
     background-repeat: no-repeat;
     background-position: right 5px;
